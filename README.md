@@ -134,4 +134,4 @@ Utilização de `ServerSocket` e `Socket`; programas separados de cliente e serv
 
 ![Cliente em execução](imagens/cliente.png)
 
-![Erro de divisão por zero](erro.png)
+![Erro de divisão por zero](imagens/erro.png)
