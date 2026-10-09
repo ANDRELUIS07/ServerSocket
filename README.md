@@ -130,6 +130,8 @@ Utilização de `ServerSocket` e `Socket`; programas separados de cliente e serv
 
 ## Captura de tela
 
-![Cliente e servidor em execução](servidor.png)
-![Cliente e servidor em execução](cliente1.png)
-![Cliente e servidor em execução](cliente2.png)
+![Servidor em execução](imagens/servidor.png)
+
+![Cliente em execução](imagens/cliente.png)
+
+![Erro de divisão por zero](erro.png)
